@@ -1,0 +1,22 @@
+{
+  "name": "ex.2-2",
+  "version": "1.0.0",
+  "description": "FSD exisice 2-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FSD",
+    "html",
+    "css",
+    "pug",
+    "webpack"
+  ],
+  "author": "Emelyanov Roman <Emelyanovre@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
